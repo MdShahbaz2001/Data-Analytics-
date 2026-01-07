@@ -65,7 +65,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ## 📜 License
 
-MIT — feel free to fork, star, and use in your portfolio.
+ feel free to fork, star, and use in your portfolio.
 
 ## 👨‍💻 About the Author
 Hey, I’m Md Shahbaz , a Data Analyst & Business Analyst.
