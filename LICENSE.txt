@@ -1,4 +1,4 @@
-MIT License
+MS License
 
 Copyright (c) 2025 Md Shahbaz
 
